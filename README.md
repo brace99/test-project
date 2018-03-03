@@ -1,4 +1,4 @@
-# [Web page](https://kostyshyn.github.io/HTML-CSS-JS-Starting-template/app/index.html)
+# [Web page](https://brace99.github.io/test-project/app/index.html)
 
 > A HTML, CSS, JS project
 
