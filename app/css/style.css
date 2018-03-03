@@ -2,7 +2,9 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	padding: 30px;
+	/*padding: 30px;*/
+	padding: 0px;
+	margin: 0px;
 }
 h1 {
 	color: grey;
@@ -38,4 +40,20 @@ h1 {
 }
 .button:hover {
 	background-color: #3f3f63;
+}
+
+header,
+footer {
+	min-height: 80px;
+	height: auto;
+	padding: 20px;
+	width: 100%;
+	box-sizing: border-box;
+	background-color: #c1c1c1;
+}
+header {
+	margin-bottom: 15px;
+}
+footer {
+	margin-top: 15px;
 }
